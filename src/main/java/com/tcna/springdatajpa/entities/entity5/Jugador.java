@@ -4,7 +4,6 @@ import jakarta.persistence.*;
 import lombok.Data;
 import lombok.ToString;
 
-@ToString
 @Entity
 @Data
 public class Jugador {
